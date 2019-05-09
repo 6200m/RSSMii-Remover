@@ -5,7 +5,7 @@ Removes all NWC24dl entries written by RSSMii.
 Start the application and it will delete every RSSMii entry automatically. Then press HOME to exit.
 
 ## Installation
-1. Grab the ZIP from the [releases page](releases)
+1. Grab the ZIP from the [releases page](https://github.com/WiiDatabase/RSSMii-Remover/releases)
 2. Extract it to the root of your SD card, so that you have the path "SD://apps/rssmii-remover/boot.dol"
 3. Run the homebrew through the homebrew channel and follow the on-screen instructions
 
